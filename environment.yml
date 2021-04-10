@@ -18,3 +18,4 @@ dependencies:
     - lightgbm
     - catboost
     - modsimpy
+    - seaborn
